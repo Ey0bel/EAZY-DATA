@@ -10,14 +10,14 @@ hl {
 }
 
 img {
-    border-radius: 15px;
+    border-radius: 20px;
 }
 
 form {
     border: 1px solid white;
-    width: 500px;
-    padding: 30px;
-    margin: 10px;
+    width: 450px;
+    padding: 35px;
+    margin: 12px;
 }
 
 .form-label {
@@ -28,15 +28,15 @@ form {
 
 .form-label {
     display: block;
-    margin-top: 10px;
-    font-size: 20px;
+    margin-top: 12px;
+    font-size: 19px;
     font-weight: bold;
 }
 
 .form-input {
-    width: 200px;
-    height: 35px;
-    font-size: 18px;
+    width: 210px;
+    height: 40px;
+    font-size: 20px;
     padding: 3px;
 }
 
