@@ -9,6 +9,12 @@ hl {
     color: rgb(94, 153, 76);
 }
 
+body {
+    background-image: url("https://images.rawpixel.com/image_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk5Ni0wMDlfMS1rcm9pcjRkay5qcGc.jpg"); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+}
+
 img {
     border-radius: 20px;
 }
